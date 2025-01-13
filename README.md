@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raunak-2907
+- 👋 Hi, I’m Mirage
 - 👀 I’m interested in web development and software development 
 - 🌱 I’m currently pursuing software engineering
 - 📫 How to reach me: insta-mishra__raunak
